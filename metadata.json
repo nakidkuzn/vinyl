@@ -1,0 +1,8 @@
+{
+  "name": "Remix GroovePrice - Discogs Store \u0026 Inventory Manager",
+  "description": "High-efficiency Discogs store inventory workstation with automated bulk repricing rules, marketplace valuation intelligence, and condition grading workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
